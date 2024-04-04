@@ -3,3 +3,4 @@ password=abc234rfddhsybfsdkjnr2329024rend32rfj
 AWS_ACCESS_KEY="ASDUHAEUR73923MSA9"
 git checkout $TargetBraNCH
 GH_Token=ghp_KLMKJDsdfsdiewneflfc
+AWS_Password=asdajndoefnldsanasCASLDMCALASDNLASND
