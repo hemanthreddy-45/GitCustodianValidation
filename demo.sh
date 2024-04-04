@@ -1,0 +1,4 @@
+TargetBraNCH='develop-test'
+password=abc234rfddhsybfsdkjnr2329024rend32rfj
+git checkout $TargetBraNCH
+GH_Token=ghp_KLMKJDsdfsdiewneflfc
